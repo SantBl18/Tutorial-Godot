@@ -1,6 +1,14 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706815972
+::res://::1706827505
+Hud.gd::GDScript::-1::1706825587::0::1::::<>CanvasLayer<>::
+Hud.tscn::PackedScene::3506383862487277458::1706826680::0::1::::<><>::uid://bm44tv0fer0hm::::res://fonts/Xolonium-Regular.ttf<>res://Hud.gd
 icon.svg::CompressedTexture2D::9114149828403463241::1706808164::1706808168::1::::<><>::
+Main.gd::GDScript::-1::1706826678::0::1::::<>Node<>::
+Main.tscn::PackedScene::8937528114932750972::1706826680::0::1::::<><>::res://Main.gd<>uid://dp6gfun87dbvc::::res://Player.tscn<>uid://cpmm2d14cnp1n::::res://Mob.tscn<>uid://bp7rvogu5fsu1::::res://Hud.tscn
+Mob.gd::GDScript::-1::1706820524::0::1::::<>RigidBody2D<>::
+Mob.tscn::PackedScene::5851223574409829349::1706826759::0::1::::<><>::res://Mob.gd<>uid://kh06mrpc5rp6::::res://art/enemyFlyingAlt_1.png<>uid://4o5lopftymat::::res://art/enemyFlyingAlt_2.png<>uid://cvrlb28k4b3w::::res://art/enemySwimming_1.png<>uid://cooqjb3r6140s::::res://art/enemySwimming_2.png<>uid://dbr4ggiiw16dt::::res://art/enemyWalking_1.png<>uid://dnc1ympfq8mdx::::res://art/enemyWalking_2.png
+Player.gd::GDScript::-1::1706818493::0::1::::<>Area2D<>::
+Player.tscn::PackedScene::8276464719043477064::1706818008::0::1::::<><>::res://Player.gd<>uid://bvukjh51i87i6::::res://art/playerGrey_up1.png<>uid://dlogewu1i3jlx::::res://art/playerGrey_up2.png<>uid://bdcscjejf5nua::::res://art/playerGrey_walk1.png<>uid://dmqfcw0f4ntdh::::res://art/playerGrey_walk2.png
 README.md::TextFile::-1::1706808472::0::1::::<><>::
 ::res://art/::1706815972
 enemyFlyingAlt_1.png::CompressedTexture2D::717913022316235793::1706815972::1706815972::1::::<><>::
