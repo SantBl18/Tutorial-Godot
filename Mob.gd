@@ -4,7 +4,7 @@ extends RigidBody2D
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	var mobTypes = $AnimatedSprite2D.sprite_frames.get_animation_names()
-	$AnimatedSprite2D.play(mobTypes.pick_random())
+	$AnimatedSprite2D.play(mobTypes[randi() % mobTypes.size()])
 	pass # Replace with function body.
 
 
